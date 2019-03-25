@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AulaAndroid</string>
+    <string name="form_title">Nova Opinião</string>
+    <string name="textview">TextView</string>
+    <string name="form_review_name">Nome</string>
+    <string name="form_review_opniao">Opnião</string>
+    <string name="form_button_gravar">Gravar</string>
+</resources>
